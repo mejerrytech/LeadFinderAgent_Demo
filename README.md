@@ -200,20 +200,38 @@ python3 main.py
 
 ## 🚀 Future Enhancements
 
-### Planned Features
-- [ ] **Multi-City Support**: Expand beyond Boston
-- [ ] **Additional Platforms**: Facebook, Twitter, LinkedIn
-- [ ] **Email Extraction**: Find contact information
-- [ ] **Website Analytics**: Traffic estimation
-- [ ] **Historical Tracking**: Data over time
-- [ ] **Automated Outreach**: Email templates
-- [ ] **Dashboard Interface**: Web-based UI
-- [ ] **Database Integration**: PostgreSQL/MongoDB storage
+### 🌟 Planned Features (My Vision)
 
-### Technical Improvements
-- [ ] **Proxy Rotation**: Better Instagram access
-- [ ] **Caching System**: Reduce API calls
-- [ ] **Parallel Processing**: Speed up data collection
-- [ ] **Unit Tests**: Comprehensive testing suite
-- [ ] **Logging System**: Detailed operation logs
-- [ ] **Configuration Validation**: Settings verification
+*I've planned these features because I want our system to become even more powerful and user-friendly:*
+
+- [ ] **Multi-City Support**: *Currently built only for Boston, but I'm thinking why not cover major cities across the country? We could extract data from New York, Los Angeles, Chicago, and more!*
+
+- [ ] **Additional Platforms**: *Instagram is great, but Facebook, Twitter, and LinkedIn data is also very valuable. I'm planning to complete the social media presence tracking.*
+
+- [ ] **Email Extraction**: *This is a very important feature! Extracting direct contact information is the ultimate goal of lead generation. I'm developing a system to scan email patterns and contact forms.*
+
+- [ ] **Website Analytics**: *Through traffic estimation, we'll know which websites are most popular. This will make our scoring system even more accurate.*
+
+- [ ] **Historical Tracking**: *Tracking data over time helps understand trends. I want to know which businesses are growing and which ones are stagnant.*
+
+- [ ] **Automated Outreach**: *I have an idea to create email templates and personalized outreach systems. When leads have high scores, automatic emails can be sent.*
+
+- [ ] **Dashboard Interface**: *Command line is good, but nowadays a web-based UI is essential. I'm going to build a beautiful dashboard using React and modern technologies.*
+
+- [ ] **Database Integration**: *CSV files are fine, but proper database (PostgreSQL/MongoDB) storage will improve data management and scalability.*
+
+### 🔧 Technical Improvements (I Added These)
+
+*I added these technical improvements because making the system robust and efficient was essential:*
+
+- [ ] **Proxy Rotation**: *Instagram sometimes blocks access, so I've planned a proxy rotation system. This will ensure consistent data and solve Instagram access problems.*
+
+- [ ] **Caching System**: *API calls are very expensive and slow. I'm implementing a caching system so we can store previously fetched data and get faster responses.*
+
+- [ ] **Parallel Processing**: *Currently using sequential processing which is slow. I'm implementing parallel processing using async programming - speed could improve up to 10x!*
+
+- [ ] **Unit Tests**: *For code quality and reliability, a comprehensive testing suite is essential. I'm creating complete test coverage using pytest.*
+
+- [ ] **Logging System**: *Detailed operation logs will make debugging and monitoring much easier. I'm implementing structured logging with different log levels.*
+
+- [ ] **Configuration Validation**: *Sometimes wrong configuration causes system crashes. I'm adding a validation layer that will catch errors at startup.*
