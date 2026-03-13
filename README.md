@@ -206,7 +206,7 @@ python3 main.py
 
 - [ ] **Multi-City Support**: *Currently built only for Boston, but I'm thinking why not cover major cities across the country? We could extract data from New York, Los Angeles, Chicago, and more!*
 
-- [ ] **Additional Platforms**: *Instagram is great, but Facebook, Twitter, and LinkedIn data is also very valuable. I'm planning to complete the social media presence tracking.*
+- [ ] **Additional Platforms**: *Instagram is great, but Facebook data is also very valuable. I'm planning to complete the social media presence tracking.
 
 - [ ] **Email Extraction**: *This is a very important feature! Extracting direct contact information is the ultimate goal of lead generation. I'm developing a system to scan email patterns and contact forms.*
 
